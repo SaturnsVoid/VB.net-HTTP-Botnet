@@ -1,3 +1,15 @@
+This is a project i was working on for a while but lost intrest in. This source is fully open and free for anyone to use. My code is sloppy and i used some features from other open source projects.
+
+Panel is not ready for use.
+Bot is not ready for use, but will work.
+
+NOT RECOMENDED FOR USE.
+
+Made in Visual Studio 2015: https://www.visualstudio.com/en-us/products/vs-2015-product-editions.aspx
+
+
+
+
 ' = Not added or being worked on
 ------------------------------------------------------------
 	List of Commands/Ability's
